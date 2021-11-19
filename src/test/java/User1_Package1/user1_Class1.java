@@ -8,6 +8,7 @@ public class user1_Class1 {
 		System.out.println("User1");
 		
 		System.out.println("User2");
+		System.out.println("tag1");
 	}
 
 }
