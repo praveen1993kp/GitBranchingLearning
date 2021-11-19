@@ -6,6 +6,7 @@ public class user1_Class1 {
 	{
 		System.out.println("User_1 Package_1 Class_1");
 		
+		System.out.println("User2");
 	}
 
 }
