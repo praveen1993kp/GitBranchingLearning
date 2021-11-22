@@ -1,2 +1,7 @@
 Commit1
 Commit2
+<<<<<<< HEAD
+=======
+Commit3
+Commit4
+>>>>>>> 861efe0 (Commit4)

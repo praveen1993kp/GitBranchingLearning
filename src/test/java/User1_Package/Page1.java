@@ -7,6 +7,7 @@ public class Page1 {
 		System.out.println("User 1 - Commit 1");
 		System.out.println("User 1 - Commit 2");
 		System.out.println("User 1 - Commit 3");
+		System.out.println("Cherry Pick changes");
 		
 	}
 
