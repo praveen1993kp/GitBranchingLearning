@@ -7,7 +7,6 @@ public class Conflict1 {
 		System.out.println("User 3");
 		System.out.println("User 1");
 		System.out.println("User 1 - Commit Stash Learning Master branch");
-				
 		
 	}
 
